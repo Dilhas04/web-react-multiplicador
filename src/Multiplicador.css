@@ -1,0 +1,21 @@
+.titulo h1{
+    font-family: poppins;
+    text-align: center;
+}
+
+.titulo button{
+    height: 300px;
+}
+
+.resultado .h1{
+    text-align: center;
+    padding-left: 600px;
+}
+
+.resultado{
+    padding-left: 450px;
+}
+
+.Resultado {
+    text-align: center;
+}
